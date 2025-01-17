@@ -1,0 +1,22 @@
+body {
+    font-family: Lato; "Comic Sans MS", Arial, Futura, sans-serif;
+    font-size: 18pt; 
+}
+
+header {
+    background-color: salmon ;
+    color: black;
+}
+
+main {
+    background-color: mistyrose;
+    color: black;
+}
+
+hl {
+    font-size: 18pt;
+}
+
+footer {
+    background-color: rebeccapurple;
+}
